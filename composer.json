@@ -1,0 +1,16 @@
+{
+    "name": "artisanssoft/coingate",
+    "description": "Implimentation of cryptocurrency payment",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "Narinder Singh",
+        "email": "narinder.singh@artisanssoft.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Artisanssoft\\Coingate\\": "src"
+        }
+    }
+}
